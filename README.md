@@ -2,7 +2,7 @@
 
 ## 1. Introduction du dataset
 
-Le dataset que nous allons étudier dans ce projet (**`student_lifestyle_dataset.csv`**) contient des informations détaillées sur les habitudes de vie quotidiennes de 2 000 étudiants et leur relation avec les performances académiques, représentées par le CGPA (*Cumulative Grade Point Average*). Les données de ce dataset ont été collectées à partir d'un sondage réalisé à l'aide de Google Forms, sur une période correspondant à une année académique, soit d'août 2023 à mai 2024. Les réponses proviennent principalement d'étudiants en Inde et d'autres pays d'Asie du Sud où le système CGPA est couramment utilisé. Les 2000 participants appartiennent à différentes institutions éducatives, ce qui garantit une diversité des contextes et des habitudes étudiantes.
+Le dataset que nous avons étudié dans ce projet (**`student_lifestyle_dataset.csv`**) contient des informations détaillées sur les habitudes de vie quotidiennes de 2 000 étudiants et leur relation avec les performances académiques, représentées par le CGPA (*Cumulative Grade Point Average*). Les données de ce dataset ont été collectées à partir d'un sondage réalisé à l'aide de Google Forms, sur une période correspondant à une année académique, soit d'août 2023 à mai 2024. Les réponses proviennent principalement d'étudiants en Inde et d'autres pays d'Asie du Sud où le système CGPA est couramment utilisé. Les 2000 participants appartiennent à différentes institutions éducatives, ce qui garantit une diversité des contextes et des habitudes étudiantes.
 
 ### Contenu du dataset
 
